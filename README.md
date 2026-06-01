@@ -2,8 +2,8 @@
 
 A full-stack expense tracking application with reporting and data visualization. Built with Django REST Framework and React.
 
-**Live API:** (coming soon)
-**Live App:** (coming soon)
+**Live API:** https://expense-tracker-api-1dt6.onrender.com/api/docs/
+**Live App:** https://expense-tracker-theta-pink.vercel.app
 
 ## Tech Stack
 
